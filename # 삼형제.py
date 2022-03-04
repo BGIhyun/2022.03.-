@@ -5,4 +5,4 @@ b='can'
 c='do'
 d='phthon'
 
-print(a,b,c,d)s
+print(a,b,c,d)
